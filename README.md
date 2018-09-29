@@ -1,4 +1,4 @@
-# clist
+# clist [![CircleCI](https://circleci.com/gh/Qix-/clist.svg?style=svg)](https://circleci.com/gh/Qix-/clist)
 
 The missing C lists library.
 
